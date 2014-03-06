@@ -1,0 +1,1 @@
+It is a quant stock tool based on the QSTK. Get the data of Shanghai and Shenzhen stock and do the strategy research of investment by historic data analysis.
